@@ -129,13 +129,13 @@ All dashboard visuals update dynamically based on slicer selections.
 
    Tool                               Purpose 
 
-📊 Microsoft Excel                 Dashboard Development 
-📑 Pivot Tables                    Data Summarization 
-📈 Pivot Charts                    Data Visualization 
-🎛️ Slicers                         Interactive Filtering 
-🧮 Excel Functions                 Data Preparation 
-🎨 Excel Formatting                Dashboard Design 
-📌 KPIs                            Business Reporting 
+📊 Microsoft Excel     --    Dashboard Development 
+📑 Pivot Tables        --    Data Summarization 
+📈 Pivot Charts        --    Data Visualization 
+🎛️ Slicers             --    Interactive Filtering 
+🧮 Excel Functions     --    Data Preparation 
+🎨 Excel Formatting    --    Dashboard Design 
+📌 KPIs                --    Business Reporting 
 
 # 📂 Dataset Information
 
