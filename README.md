@@ -230,7 +230,7 @@ The dataset contains restaurant-related information including:
 
 ## ⭐ Top 10 Restaurants by Ratings
 
-![Top Ratings](Top10_Restaurants_by_Rating.png)
+![Top Ratings]()
 
 ---
 
