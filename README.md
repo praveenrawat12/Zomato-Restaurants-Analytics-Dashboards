@@ -224,7 +224,7 @@ The dataset contains restaurant-related information including:
 
 ## 📈 Yearly Restaurant Trends
 
-![Yearly Trend](Yearly_Trend.png)
+![Yearly Trend](Yearly_Trend.png.png)
 
 ---
 
