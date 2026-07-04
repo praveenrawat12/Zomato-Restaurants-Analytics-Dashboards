@@ -218,7 +218,7 @@ The dataset contains restaurant-related information including:
 
 ## 🖼️ Complete Dashboard
 
-![Dashboard](Screenshot 2026-07-04 233609.png)
+![Dashboard](dashboard.png.png)
 
 ---
 
