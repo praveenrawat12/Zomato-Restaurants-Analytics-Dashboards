@@ -12,13 +12,13 @@ This project demonstrates practical Excel skills required for a **Data Analyst**
 
 # 📂 Project Structure:
 
-📁 Zomato-Restaurant-Analytics
-│
-├── 📄 README.md
-├── 🖼️ Dashboard.png
-├── 📈 Yearly_Trend.png
-├── ⭐ Top10_Restaurants_by_Rating.png
-└── 👍 Top10_Restaurants_by_Votes.png
+       📁 Zomato-Restaurant-Analytics
+        │
+        ├── 📄 README.md
+        ├── 🖼️ Dashboard.png
+        ├── 📈 Yearly_Trend.png
+        ├── ⭐ Top10_Restaurants_by_Rating.png
+        └── 👍 Top10_Restaurants_by_Votes.png
 
 # 🎯 Business Problems Solved
 
@@ -127,15 +127,15 @@ All dashboard visuals update dynamically based on slicer selections.
 
 # 🛠️ Tools & Technologies Used
 
-   Tool                               Purpose 
+   Tool                             
 
-📊 Microsoft Excel     --    Dashboard Development 
-📑 Pivot Tables        --    Data Summarization 
-📈 Pivot Charts        --    Data Visualization 
-🎛️ Slicers             --    Interactive Filtering 
-🧮 Excel Functions     --    Data Preparation 
-🎨 Excel Formatting    --    Dashboard Design 
-📌 KPIs                --    Business Reporting 
+📊 Microsoft Excel    
+📑 Pivot Tables       
+📈 Pivot Charts        
+🎛️ Slicers           
+🧮 Excel Functions    
+🎨 Excel Formatting  
+📌 KPIs               
 
 # 📂 Dataset Information
 
@@ -218,7 +218,7 @@ The dataset contains restaurant-related information including:
 
 ## 🖼️ Complete Dashboard
 
-![Dashboard](Dashboard.png)
+![Dashboard]()
 
 ---
 
