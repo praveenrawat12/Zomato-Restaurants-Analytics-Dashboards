@@ -41,12 +41,12 @@ This project demonstrates practical Excel skills required for a **Data Analyst**
 
 # 📊 Dashboard KPIs
 
-            KPI                                      Description 
+   KPI                                      Description 
 
-        🍽️ Total Restaurants            Total restaurants available in the dataset 
-        ⭐ Average Rating               Overall average customer rating 
-        👍 Average Votes                Average customer votes received 
-        💰 Average Cost for Two         Average dining cost for two people 
+   🍽️ Total Restaurants            Total restaurants available in the dataset 
+   ⭐ Average Rating               Overall average customer rating 
+   👍 Average Votes                Average customer votes received 
+   💰 Average Cost for Two         Average dining cost for two people 
 
 # 📈 Dashboard Features
 
