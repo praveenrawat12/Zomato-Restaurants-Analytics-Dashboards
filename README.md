@@ -258,15 +258,4 @@ I enjoy solving real-world business problems by building interactive dashboards 
 📧 **Email:** *(praveen.rawat3705@gmail.com)*
 
 
-# ⭐ Support
-
-If you found this project useful or interesting:
-
-⭐ Star this repository
-
-🍴 Fork this repository
-
-💬 Share your feedback
-
-Your support is greatly appreciated!
 
